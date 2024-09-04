@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    background-color: #FDFBF6;
+    font-family: "Outfit", sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+    width: 1160px;
+    height: 182px;
+    text-align: center;
+    padding-left: 160px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    width: 1154px;
+    height: 25px;
+    padding-bottom: 30px;
+}
+
+.botao{
+    font-family: "Outfit", sans-serif;
+    padding: 20px, 10px, 20px, 10px;
+    background-color: #000000;
+    color: white;
+    border-radius: 5px;
+    margin-left: 40%;
+    width: 298px;
+    height: 65px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    letter-spacing: 10%;
+    line-height: 25.2px ;
+}
+
+.content{
+    width: 1154px;
+    height: 25px;
+    padding-left: 143px;
+}
+
+.dev{
+    padding-top: 242px;
+    width: 1154px;
+    height: 25px;
+    padding-left: 143px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+img{
+    width: 296px;
+    height: 296px;
+    padding-left: 140px;
+    float: left;
+}
